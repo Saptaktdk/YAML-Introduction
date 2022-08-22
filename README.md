@@ -10,7 +10,7 @@ The file extensions are: .yaml and .yml, you can use any of the two.
 
 It's very intuitive and human readable compared to other serialization languages.
 
-YAML is a superset of JSON, any valid JSON file is also a valis YAML file.
+YAML is a superset of JSON, any valid JSON file is also a valid YAML file.
 ## Uses
 
 YAMLs are used in Docker Compose files, Ansible, Kubernetes and in many tools.
